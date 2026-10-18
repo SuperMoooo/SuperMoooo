@@ -2,6 +2,8 @@
 
 Mobile developer from Portugal 🇵🇹, focused on building clean, scalable apps. I also enjoy working across the stack, and I like building tools that make development faster, like [moarch](https://github.com/SuperMoooo/moarch), a Flutter CLI for scaffolding Clean Architecture projects.
 
+🎓 Studying for a Bachelor's in **Computer Science & Artificial Intelligence** at Instituto Politécnico de Tomar.
+
 🌍 Portfolio: [supermoooo.github.io/Portfolio](https://supermoooo.github.io/Portfolio/)
 
 ## 🛠️ Tech Stack
@@ -12,6 +14,7 @@ Mobile developer from Portugal 🇵🇹, focused on building clean, scalable app
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-00B4AB?style=for-the-badge&logo=flutter&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Web**
 
@@ -26,12 +29,20 @@ Mobile developer from Portugal 🇵🇹, focused on building clean, scalable app
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FVM](https://img.shields.io/badge/FVM-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## 🤝 How I Work
+
+- **Team collaboration:** I work closely with back-end teams and stakeholders on architecture and API decisions, and I've introduced Flutter to a team and mentored teammates on architecture and best practices.
+- **Research first:** before building, I compare technical alternatives and pick the solution that fits the project, not just the first one that works.
+- **AI as a tool:** I use AI-assisted workflows to move faster on boilerplate, debugging and exploring new ideas, while keeping code quality and understanding in my own hands.
 
 ## 🌱 Currently Learning
 
@@ -43,4 +54,4 @@ Diving into machine learning and deep learning, and learning Kotlin for native A
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andre_montoito) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andré-montoito-1541ab2b3)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andremontoito@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andre_montoito) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andré-montoito-1541ab2b3)
