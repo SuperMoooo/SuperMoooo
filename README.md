@@ -1,10 +1,25 @@
 # Hi, I'm André 👋
 
-Mobile developer from Portugal 🇵🇹, focused on building clean, scalable apps. I also enjoy working across the stack, and I like building tools that make development faster, like [moarch](https://github.com/SuperMoooo/moarch), a Flutter CLI for scaffolding Clean Architecture projects.
+**Mobile Engineer (Flutter)** from Portugal 🇵🇹, shipping production apps for Android, iOS and Huawei.
 
-🎓 Studying for a Bachelor's in **Computer Science & Artificial Intelligence** at Instituto Politécnico de Tomar.
+🎓 **Computer Science & Artificial Intelligence** at Universidade Politécnico de Tomar.
 
 🌍 Portfolio: [supermoooo.github.io/Portfolio](https://supermoooo.github.io/Portfolio/)
+
+## 📱 Apps I've Shipped
+
+| App | What it does | Stack |
+| --- | --- | --- |
+| [Gesti](https://play.google.com/store/apps/details?id=com.supermo.gesti) | One agenda for reminders, events, tasks and school schedules | Flutter · Riverpod · Firebase |
+| [Compras](https://play.google.com/store/apps/details?id=com.supermo.compras) | Real-time shared shopping lists for families and housemates | Flutter · Firebase · Bloc |
+
+## 📦 Open Source
+
+- **[moarch](https://pub.dev/packages/moarch)**: Flutter CLI that scaffolds Clean Architecture projects with Riverpod or BLoC, flavors, offline-first cache & sync, and generated tests. [Source](https://github.com/SuperMoooo/moarch)
+- **[mo_infinite_scroll](https://github.com/SuperMoooo/mo_infinite_scroll)**: infinite scroll with pull-to-refresh, pre-fetching, a Sliver variant and loading, empty and error states.
+- **[mogen_unit_tests](https://github.com/SuperMoooo/mogen_unit_tests)**: CLI that parses Riverpod notifiers and generates Mocktail unit tests with success and error cases.
+- **mogen_integration_tests**: scans datasource GET endpoints and generates integration test scaffolding.
+- **mo_2fa_code**: customizable 2FA / OTP code input for Flutter.
 
 ## 🛠️ Tech Stack
 
@@ -16,12 +31,6 @@ Mobile developer from Portugal 🇵🇹, focused on building clean, scalable app
 ![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Web**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
 **Backend & Databases**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,7 +38,12 @@ Mobile developer from Portugal 🇵🇹, focused on building clean, scalable app
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Web**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Tools**
 
@@ -40,18 +54,21 @@ Mobile developer from Portugal 🇵🇹, focused on building clean, scalable app
 
 ## 🤝 How I Work
 
-- **Team collaboration:** I work closely with back-end teams and stakeholders on architecture and API decisions, and I've introduced Flutter to a team and mentored teammates on architecture and best practices.
+- **End to end:** I own apps from architecture to store release and maintenance, and I work closely with back-end teams and stakeholders on API decisions.
+- **Raising the bar:** I introduced Flutter to a team and mentored teammates on Clean Architecture and best practices.
 - **Research first:** before building, I compare technical alternatives and pick the solution that fits the project, not just the first one that works.
-- **AI as a tool:** I use AI-assisted workflows to move faster on boilerplate, debugging and exploring new ideas, while keeping code quality and understanding in my own hands.
+- **AI as a tool:** I use AI-assisted workflows for boilerplate, debugging and exploring ideas, while keeping code quality and understanding in my own hands.
 
 ## 🌱 Currently Learning
 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-Diving into machine learning and deep learning, and learning Kotlin for native Android development.
+Learning Kotlin for native Android, and diving into machine learning and deep learning.
 
-## 🌐 Socials
+## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andremontoito@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andre_montoito) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andré-montoito-1541ab2b3)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andremontoito@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-montoito/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-151515?style=for-the-badge&logo=githubpages&logoColor=white)](https://supermoooo.github.io/Portfolio/)
