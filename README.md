@@ -2,7 +2,7 @@
 
 **Mobile Engineer (Flutter)** from Portugal 🇵🇹, shipping production apps for Android, iOS and Huawei.
 
-🎓 **Computer Science & Artificial Intelligence** at Universidade Politécnico de Tomar.
+🎓 **Computer Science & Artificial Intelligence** at Universidade Politécnica de Tomar.
 
 🌍 Portfolio: [supermoooo.github.io/Portfolio](https://supermoooo.github.io/Portfolio/)
 
