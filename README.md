@@ -1,8 +1,10 @@
 # Hi, I'm André 👋
 
-**Mobile Engineer (Flutter)** from Portugal 🇵🇹, shipping production apps for Android, iOS and Huawei.
+**Mobile Engineer & Backend Developer** from Portugal 🇵🇹.
 
-🎓 **Computer Science & Artificial Intelligence** at Universidade Politécnica de Tomar.
+I build apps end to end, from the mobile UI to the API and database behind it. My main focus is mobile, but I've also built REST APIs, worked on web front-ends and been part of back-end and architecture decisions. That means I understand how the whole system fits together, and I can adapt to whatever part of it a project needs.
+
+🎓 **Bachelor's in Computer Science & Artificial Intelligence** at Universidade Politécnica de Tomar.
 
 🌍 Portfolio: [supermoooo.github.io/Portfolio](https://supermoooo.github.io/Portfolio/)
 
@@ -13,13 +15,9 @@
 | [Gesti](https://play.google.com/store/apps/details?id=com.supermo.gesti) | One agenda for reminders, events, tasks and school schedules | Flutter · Riverpod · Firebase |
 | [Compras](https://play.google.com/store/apps/details?id=com.supermo.compras) | Real-time shared shopping lists for families and housemates | Flutter · Firebase · Bloc |
 
-## 📦 Open Source
+## 📦 Open Source (Main projects)
 
 - **[moarch](https://pub.dev/packages/moarch)**: Flutter CLI that scaffolds Clean Architecture projects with Riverpod or BLoC, flavors, offline-first cache & sync, and generated tests. [Source](https://github.com/SuperMoooo/moarch)
-- **[mo_infinite_scroll](https://github.com/SuperMoooo/mo_infinite_scroll)**: infinite scroll with pull-to-refresh, pre-fetching, a Sliver variant and loading, empty and error states.
-- **[mogen_unit_tests](https://github.com/SuperMoooo/mogen_unit_tests)**: CLI that parses Riverpod notifiers and generates Mocktail unit tests with success and error cases.
-- **mogen_integration_tests**: scans datasource GET endpoints and generates integration test scaffolding.
-- **mo_2fa_code**: customizable 2FA / OTP code input for Flutter.
 
 ## 🛠️ Tech Stack
 
@@ -51,6 +49,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FVM](https://img.shields.io/badge/FVM-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ## 🤝 How I Work
 
